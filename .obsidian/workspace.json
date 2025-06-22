@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "1368622dda341596",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a1b536a6dba0359",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9ad2f8be233b922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay Ideas and Lore/Storia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Storia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c04f068b7737f67a",
+    "type": "split",
+    "children": [
+      {
+        "id": "276a228922925040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aeb06aa377393a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d799b0a76162923b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "865aef418d75369e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "723a805039656093",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8c6c8c682f8cf05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eaf4fc9bf6c7c9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gameplay Ideas and Lore/Storia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Storia"
+            }
+          },
+          {
+            "id": "6de45629d8a97295",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gameplay Ideas and Lore/Storia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Storia"
+            }
+          },
+          {
+            "id": "e8eb4cf14c6a88c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c787bf73c9ced67e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gameplay Ideas and Lore/Storia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Storia"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "d9ad2f8be233b922",
+  "lastOpenFiles": [
+    "Gameplay Ideas and Lore/Gameplay.md",
+    "Gameplay Ideas and Lore/Storia.md",
+    "Gameplay Ideas and Lore"
+  ]
+}
