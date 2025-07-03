@@ -1,4 +1,18 @@
-TBD
+Remi è una ragazza introversa intorno ai 14 anni, che passa la maggior parte delle sue giornate chiusa in casa, da sola. I genitori di Remi lavorano ogni giorno, e lei ogni giorno è costretta ad aspettarli, in compagnia solo del suo amico Enma, vicino di casa e coetaneo che conosce da tutta la vita e con cui ha un legame molto forte. Quasi come se Enma vivesse a casa sua, non ha mai bisogno di farsi aprire la porta d'ingresso, e probabilmente è perchè i suoi genitori hanno una copia delle chiavi di casa sua (per le evenienze).
+
+Il gioco è un racconto introspettivo su un trauma che ha vissuto Remi pochi mesi prima dell'inizio del gioco. La storia ruoterà intorno alla scoperta della morte del suo amico Enma, e all'accettazione da parte di Remi di questo evento, che l'ha traumatizzata al punto da chiudersi in casa e "cambiare personalità".
+Il modo in cui intendo dimostrare che Enma è morto sarà tramite delle linee di dialogo dei Wisps durante il gioco, per poi arrivare alla conclusione quando sarà tutto "chiarito" dai discorsi della madre del ragazzo durante il suo funerale, che secondo me potrebbe essere una specie di livello finale (o comunque tra gli ultimi) in cui compaiono scritte del discorso della madre che si fanno sempre più tristi man mano che si arriva alla fine del livello. Oltre ai dialoghi dei Wisps, alle volte sarà Enma stesso a parlare di morte, di "cosa farà Remi se lui dovesse restare intrappolato in quel mondo", e cercherà di farle comprendere che lui non è più vivo, anche se mai apertamente.
+
+### Temi Principali
+I temi principali varieranno molto paragonando inizio e fine gioco. 
+All'inizio sarà tutto giocoso, due amici alla scoperta di un mondo magico nel tentativo di tornare a casa (Remi capisce in questa fase che è un sogno); poi vorrei un paio di livelli che definiranno il rapporto di Enma con i Wisps, che in quanto fiammette portatrici di vita, cercano di evitarlo dato che lui rifiuta la loro luce. La luce e la vita devono essere due parole chiave, collegate per tutto il gioco e in grado di collegare la vita alla morte quando Enma non riuscirà ad illuminarsi; infine, gli ultimi due livelli saranno basati sulle due emozioni principali: il penultimo sarà il livello sul funerale di Enma, quindi basato su dolore, malessere, desiderio di rivedersi (in questo livello Enma non sarà disponibile), mentre l'ultimo sarà un livello sull'accettazione della scomparsa, e sul come andare avanti dopo perdite del genere (Enma torna nel team, capelli bianchi e parvenza di ali nella sprite).
+Il gioco inizierà con i Wisps molto illuminati, segno del rifiuto da parte di Remi della morte del suo amico, e con l'aumentare dei livelli diventeranno sempre più deboli.
+
+### Setting
+Il gioco inizia con Remi che si sveglia da sola all'interno del mondo dei Wisps, con vestiti che non indossa da anni, e un senso di familiarità al luogo in cui si trova.
+I wisps sono gli abitanti di questo mondo, si tratta di creaturine azzurre a forma di fiammetta, che la circondano appena notano che si è svegliata e la guidano "di fretta" per un piccolo periodo dell'inizio del gioco, con dei dialoghi introduttivi molto veloci che le spiegano che questa è la sua avventura "personale" e che qui vivrà un percorso che non vivrebbe altrove. I wisps scompaiono quando Enma arriva a salutarla, sbloccando il primo personaggio scambiabile (quindi il doppio salto) ed iniziando a tracciare una strada per tornare a casa. 
 
 ### Personaggi 
 Remi - 
+Enma - 
+Wisps -
