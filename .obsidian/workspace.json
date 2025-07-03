@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Gameplay Ideas and Lore/Storia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Storia"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "d9ad2f8be233b922",
   "lastOpenFiles": [
+    "README.md",
     "Gameplay Ideas and Lore/Gameplay.md",
     "Gameplay Ideas and Lore/Storia.md",
     "Gameplay Ideas and Lore"
